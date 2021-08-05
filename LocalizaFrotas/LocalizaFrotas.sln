@@ -5,6 +5,10 @@ VisualStudioVersion = 16.0.31515.178
 MinimumVisualStudioVersion = 10.0.40219.1
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "LocalizaFrotas", "LocalizaFrotas.csproj", "{63631E00-9AB1-4E78-B018-64F0FC04580B}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "LocalizaFrotasDomain", "..\LocalizaFrotasDomain\LocalizaFrotasDomain.csproj", "{BA6DFB6A-EB3E-4270-8660-419294512D80}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "LocalizaFrotasInfra", "..\LocalizaFrotasInfra\LocalizaFrotasInfra.csproj", "{46429921-D85C-4EFC-8F32-2657E1F42F61}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -15,6 +19,14 @@ Global
 		{63631E00-9AB1-4E78-B018-64F0FC04580B}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{63631E00-9AB1-4E78-B018-64F0FC04580B}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{63631E00-9AB1-4E78-B018-64F0FC04580B}.Release|Any CPU.Build.0 = Release|Any CPU
+		{BA6DFB6A-EB3E-4270-8660-419294512D80}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{BA6DFB6A-EB3E-4270-8660-419294512D80}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{BA6DFB6A-EB3E-4270-8660-419294512D80}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{BA6DFB6A-EB3E-4270-8660-419294512D80}.Release|Any CPU.Build.0 = Release|Any CPU
+		{46429921-D85C-4EFC-8F32-2657E1F42F61}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{46429921-D85C-4EFC-8F32-2657E1F42F61}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{46429921-D85C-4EFC-8F32-2657E1F42F61}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{46429921-D85C-4EFC-8F32-2657E1F42F61}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE

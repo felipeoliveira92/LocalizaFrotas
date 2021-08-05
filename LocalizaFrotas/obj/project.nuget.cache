@@ -1,8 +1,15 @@
 {
   "version": 2,
-  "dgSpecHash": "E0NyFMq3M/OGFQNbIICZQOYNHI86uluVo4MoyH2p+Mz//DCHNHYdzGdGxxcUuKlQ8SZeC9caWeYSWqrIpHyn5g==",
+  "dgSpecHash": "HawajDvaL/ExNvJbDeV5k+J2zHNqbHSFKm/vgaQdrPHGxMsWiwZt++aIzOwK8pOcTPgejJeylhxOz1a8kQGfbg==",
   "success": true,
   "projectFilePath": "C:\\Users\\Felipe\\Documents\\Projetos\\LocalizaFrotas\\LocalizaFrotas\\LocalizaFrotas.csproj",
-  "expectedPackageFiles": [],
+  "expectedPackageFiles": [
+    "C:\\Users\\Felipe\\.nuget\\packages\\microsoft.extensions.apidescription.server\\3.0.0\\microsoft.extensions.apidescription.server.3.0.0.nupkg.sha512",
+    "C:\\Users\\Felipe\\.nuget\\packages\\microsoft.openapi\\1.2.3\\microsoft.openapi.1.2.3.nupkg.sha512",
+    "C:\\Users\\Felipe\\.nuget\\packages\\swashbuckle.aspnetcore\\6.1.5\\swashbuckle.aspnetcore.6.1.5.nupkg.sha512",
+    "C:\\Users\\Felipe\\.nuget\\packages\\swashbuckle.aspnetcore.swagger\\6.1.5\\swashbuckle.aspnetcore.swagger.6.1.5.nupkg.sha512",
+    "C:\\Users\\Felipe\\.nuget\\packages\\swashbuckle.aspnetcore.swaggergen\\6.1.5\\swashbuckle.aspnetcore.swaggergen.6.1.5.nupkg.sha512",
+    "C:\\Users\\Felipe\\.nuget\\packages\\swashbuckle.aspnetcore.swaggerui\\6.1.5\\swashbuckle.aspnetcore.swaggerui.6.1.5.nupkg.sha512"
+  ],
   "logs": []
 }

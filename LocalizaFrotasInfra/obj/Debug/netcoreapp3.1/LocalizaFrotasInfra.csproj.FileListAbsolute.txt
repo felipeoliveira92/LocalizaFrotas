@@ -1,0 +1,8 @@
+C:\Users\Felipe\Documents\Projetos\LocalizaFrotas\LocalizaFrotasInfra\bin\Debug\netcoreapp3.1\LocalizaFrotasInfra.deps.json
+C:\Users\Felipe\Documents\Projetos\LocalizaFrotas\LocalizaFrotasInfra\bin\Debug\netcoreapp3.1\LocalizaFrotasInfra.dll
+C:\Users\Felipe\Documents\Projetos\LocalizaFrotas\LocalizaFrotasInfra\bin\Debug\netcoreapp3.1\LocalizaFrotasInfra.pdb
+C:\Users\Felipe\Documents\Projetos\LocalizaFrotas\LocalizaFrotasInfra\obj\Debug\netcoreapp3.1\LocalizaFrotasInfra.AssemblyInfoInputs.cache
+C:\Users\Felipe\Documents\Projetos\LocalizaFrotas\LocalizaFrotasInfra\obj\Debug\netcoreapp3.1\LocalizaFrotasInfra.AssemblyInfo.cs
+C:\Users\Felipe\Documents\Projetos\LocalizaFrotas\LocalizaFrotasInfra\obj\Debug\netcoreapp3.1\LocalizaFrotasInfra.csproj.CoreCompileInputs.cache
+C:\Users\Felipe\Documents\Projetos\LocalizaFrotas\LocalizaFrotasInfra\obj\Debug\netcoreapp3.1\LocalizaFrotasInfra.dll
+C:\Users\Felipe\Documents\Projetos\LocalizaFrotas\LocalizaFrotasInfra\obj\Debug\netcoreapp3.1\LocalizaFrotasInfra.pdb
