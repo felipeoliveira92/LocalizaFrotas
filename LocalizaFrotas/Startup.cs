@@ -13,6 +13,10 @@ using System.IO;
 using System.Linq;
 using System.Threading.Tasks;
 using LocalizaFrotasInfra.Singleton;
+using LocalizaFrotasDomain;
+using LocalizaFrotasInfra.Repository;
+using LocalizaFrotasInfra.Repository.EF;
+using Microsoft.EntityFrameworkCore;
 
 namespace LocalizaFrotas
 {
@@ -42,6 +46,15 @@ namespace LocalizaFrotas
                 c.IncludeXmlComments(apiPath);
             });
             services.AddSingleton<SingletonContainer>();
+
+            services.AddTransient<IVeiculoRepository, FrotaRepository>();
+
+            services.AddSingleton<SingletonContainer>();
+            services.AddDbContext<FrotaContext>(opt =>
+                                               opt.UseInMemoryDatabase("Frota"));
+            services.AddHttpClient();
+
+            services.Configure<DetranOptions>(Configuration.GetSection("DetranOptions"));
         }
 
         // This method gets called by the runtime. Use this method to configure the HTTP request pipeline.

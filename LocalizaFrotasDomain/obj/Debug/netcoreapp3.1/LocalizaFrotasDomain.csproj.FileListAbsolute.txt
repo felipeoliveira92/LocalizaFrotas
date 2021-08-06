@@ -1,0 +1,9 @@
+C:\Users\Felipe\Documents\Projetos\LocalizaFrotas\LocalizaFrotasDomain\bin\Debug\netcoreapp3.1\LocalizaFrotasDomain.deps.json
+C:\Users\Felipe\Documents\Projetos\LocalizaFrotas\LocalizaFrotasDomain\bin\Debug\netcoreapp3.1\LocalizaFrotasDomain.dll
+C:\Users\Felipe\Documents\Projetos\LocalizaFrotas\LocalizaFrotasDomain\bin\Debug\netcoreapp3.1\LocalizaFrotasDomain.pdb
+C:\Users\Felipe\Documents\Projetos\LocalizaFrotas\LocalizaFrotasDomain\obj\Debug\netcoreapp3.1\LocalizaFrotasDomain.csproj.AssemblyReference.cache
+C:\Users\Felipe\Documents\Projetos\LocalizaFrotas\LocalizaFrotasDomain\obj\Debug\netcoreapp3.1\LocalizaFrotasDomain.AssemblyInfoInputs.cache
+C:\Users\Felipe\Documents\Projetos\LocalizaFrotas\LocalizaFrotasDomain\obj\Debug\netcoreapp3.1\LocalizaFrotasDomain.AssemblyInfo.cs
+C:\Users\Felipe\Documents\Projetos\LocalizaFrotas\LocalizaFrotasDomain\obj\Debug\netcoreapp3.1\LocalizaFrotasDomain.csproj.CoreCompileInputs.cache
+C:\Users\Felipe\Documents\Projetos\LocalizaFrotas\LocalizaFrotasDomain\obj\Debug\netcoreapp3.1\LocalizaFrotasDomain.dll
+C:\Users\Felipe\Documents\Projetos\LocalizaFrotas\LocalizaFrotasDomain\obj\Debug\netcoreapp3.1\LocalizaFrotasDomain.pdb

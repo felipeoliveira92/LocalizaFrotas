@@ -6,3 +6,7 @@ C:\Users\Felipe\Documents\Projetos\LocalizaFrotas\LocalizaFrotasInfra\obj\Debug\
 C:\Users\Felipe\Documents\Projetos\LocalizaFrotas\LocalizaFrotasInfra\obj\Debug\netcoreapp3.1\LocalizaFrotasInfra.csproj.CoreCompileInputs.cache
 C:\Users\Felipe\Documents\Projetos\LocalizaFrotas\LocalizaFrotasInfra\obj\Debug\netcoreapp3.1\LocalizaFrotasInfra.dll
 C:\Users\Felipe\Documents\Projetos\LocalizaFrotas\LocalizaFrotasInfra\obj\Debug\netcoreapp3.1\LocalizaFrotasInfra.pdb
+C:\Users\Felipe\Documents\Projetos\LocalizaFrotas\LocalizaFrotasInfra\bin\Debug\netcoreapp3.1\LocalizaFrotasDomain.dll
+C:\Users\Felipe\Documents\Projetos\LocalizaFrotas\LocalizaFrotasInfra\bin\Debug\netcoreapp3.1\LocalizaFrotasDomain.pdb
+C:\Users\Felipe\Documents\Projetos\LocalizaFrotas\LocalizaFrotasInfra\obj\Debug\netcoreapp3.1\LocalizaFrotasInfra.csproj.AssemblyReference.cache
+C:\Users\Felipe\Documents\Projetos\LocalizaFrotas\LocalizaFrotasInfra\obj\Debug\netcoreapp3.1\LocalizaFrotasInfra.csproj.CopyComplete
