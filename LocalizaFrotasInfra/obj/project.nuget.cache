@@ -1,6 +1,6 @@
 {
   "version": 2,
-  "dgSpecHash": "ZV+DPeK+O/IalnK52rBdfqs0aq365MMeGQ/8XPtzpAwDV0cbEwNLDKZSsGgvBbkbDT9/sci/LBTFtVhD/9dZ1g==",
+  "dgSpecHash": "EhTguyHJfajatLa5qOk4dJhCt9LGsd96/L4taQMulht0SfGlwIwMO7lQ5SjLLDOt0emJNIPvVU1JoxaXZ3OiMA==",
   "success": true,
   "projectFilePath": "C:\\Users\\Felipe\\Documents\\Projetos\\LocalizaFrotas\\LocalizaFrotasInfra\\LocalizaFrotasInfra.csproj",
   "expectedPackageFiles": [
@@ -12,6 +12,7 @@
     "C:\\Users\\Felipe\\.nuget\\packages\\microsoft.extensions.caching.memory\\5.0.0\\microsoft.extensions.caching.memory.5.0.0.nupkg.sha512",
     "C:\\Users\\Felipe\\.nuget\\packages\\microsoft.extensions.dependencyinjection\\5.0.2\\microsoft.extensions.dependencyinjection.5.0.2.nupkg.sha512",
     "C:\\Users\\Felipe\\.nuget\\packages\\microsoft.extensions.dependencyinjection.abstractions\\5.0.0\\microsoft.extensions.dependencyinjection.abstractions.5.0.0.nupkg.sha512",
+    "C:\\Users\\Felipe\\.nuget\\packages\\microsoft.extensions.http\\5.0.0\\microsoft.extensions.http.5.0.0.nupkg.sha512",
     "C:\\Users\\Felipe\\.nuget\\packages\\microsoft.extensions.logging\\5.0.0\\microsoft.extensions.logging.5.0.0.nupkg.sha512",
     "C:\\Users\\Felipe\\.nuget\\packages\\microsoft.extensions.logging.abstractions\\5.0.0\\microsoft.extensions.logging.abstractions.5.0.0.nupkg.sha512",
     "C:\\Users\\Felipe\\.nuget\\packages\\microsoft.extensions.options\\5.0.0\\microsoft.extensions.options.5.0.0.nupkg.sha512",

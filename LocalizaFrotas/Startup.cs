@@ -17,6 +17,7 @@ using LocalizaFrotasDomain;
 using LocalizaFrotasInfra.Repository;
 using LocalizaFrotasInfra.Repository.EF;
 using Microsoft.EntityFrameworkCore;
+using LocalizaFrotasInfra.Facade;
 
 namespace LocalizaFrotas
 {
@@ -48,6 +49,7 @@ namespace LocalizaFrotas
             services.AddSingleton<SingletonContainer>();
 
             services.AddTransient<IVeiculoRepository, FrotaRepository>();
+            services.AddTransient<IVeiculoDetran, VeiculoDetranFacade>();
 
             services.AddSingleton<SingletonContainer>();
             services.AddDbContext<FrotaContext>(opt =>
