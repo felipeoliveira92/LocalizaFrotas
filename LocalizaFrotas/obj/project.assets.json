@@ -73,6 +73,16 @@
           "Microsoft.AspNetCore.App"
         ]
       },
+      "LocalizaFrotasDomain/1.0.0": {
+        "type": "project",
+        "framework": ".NETCoreApp,Version=v3.1",
+        "compile": {
+          "bin/placeholder/LocalizaFrotasDomain.dll": {}
+        },
+        "runtime": {
+          "bin/placeholder/LocalizaFrotasDomain.dll": {}
+        }
+      },
       "LocalizaFrotasInfra/1.0.0": {
         "type": "project",
         "framework": ".NETCoreApp,Version=v3.1",
@@ -202,6 +212,11 @@
         "swashbuckle.aspnetcore.swaggerui.nuspec"
       ]
     },
+    "LocalizaFrotasDomain/1.0.0": {
+      "type": "project",
+      "path": "../LocalizaFrotasDomain/LocalizaFrotasDomain.csproj",
+      "msbuildProject": "../LocalizaFrotasDomain/LocalizaFrotasDomain.csproj"
+    },
     "LocalizaFrotasInfra/1.0.0": {
       "type": "project",
       "path": "../LocalizaFrotasInfra/LocalizaFrotasInfra.csproj",
@@ -210,6 +225,7 @@
   },
   "projectFileDependencyGroups": {
     ".NETCoreApp,Version=v3.1": [
+      "LocalizaFrotasDomain >= 1.0.0",
       "LocalizaFrotasInfra >= 1.0.0",
       "Swashbuckle.AspNetCore >= 6.1.5"
     ]
@@ -249,6 +265,9 @@
         "netcoreapp3.1": {
           "targetAlias": "netcoreapp3.1",
           "projectReferences": {
+            "C:\\Users\\Felipe\\Documents\\Projetos\\LocalizaFrotas\\LocalizaFrotasDomain\\LocalizaFrotasDomain.csproj": {
+              "projectPath": "C:\\Users\\Felipe\\Documents\\Projetos\\LocalizaFrotas\\LocalizaFrotasDomain\\LocalizaFrotasDomain.csproj"
+            },
             "C:\\Users\\Felipe\\Documents\\Projetos\\LocalizaFrotas\\LocalizaFrotasInfra\\LocalizaFrotasInfra.csproj": {
               "projectPath": "C:\\Users\\Felipe\\Documents\\Projetos\\LocalizaFrotas\\LocalizaFrotasInfra\\LocalizaFrotasInfra.csproj"
             }
